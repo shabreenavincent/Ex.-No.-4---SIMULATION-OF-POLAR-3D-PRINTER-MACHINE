@@ -33,8 +33,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+![EMPD(EXP4)](https://github.com/shabreenavincent/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119475721/66215e7d-95cd-4348-80eb-c07a00e9ba88)
+
+
+
+
+### Name:SHABREENA VINCENT
+### Register Number:212222230141
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
